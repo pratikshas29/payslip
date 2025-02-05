@@ -1,0 +1,88 @@
+.payslip-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.logo-placeholder {
+    width: 100px;
+    height: 100px;
+    background: #ff6b00;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 40px;
+    margin-right: 20px;
+}
+
+.company-details {
+    flex: 1;
+    text-align: right;
+}
+
+.company-details h2 {
+    margin: 0 0 10px 0;
+}
+
+.company-details p {
+    margin: 2px 0;
+}
+
+.payslip-title {
+    text-align: center;
+    margin: 20px 0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 10px 0;
+}
+
+td, th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+th {
+    background-color: #f4f4f4;
+}
+
+.total-row {
+    font-weight: bold;
+    background-color: #f4f4f4;
+}
+
+.net-pay {
+    font-weight: bold;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px;
+    font-style: italic;
+}
+.download-button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    background: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.download-button:hover {
+    background: #0056b3;
+}
