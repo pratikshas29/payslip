@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/payslip/static/css/main.22e8333e.css",
+    "main.js": "/payslip/static/js/main.18d826b5.js",
+    "static/js/213.428bafe3.chunk.js": "/payslip/static/js/213.428bafe3.chunk.js",
+    "static/js/732.f191ab12.chunk.js": "/payslip/static/js/732.f191ab12.chunk.js",
+    "index.html": "/payslip/index.html",
+    "main.22e8333e.css.map": "/payslip/static/css/main.22e8333e.css.map",
+    "main.18d826b5.js.map": "/payslip/static/js/main.18d826b5.js.map",
+    "213.428bafe3.chunk.js.map": "/payslip/static/js/213.428bafe3.chunk.js.map",
+    "732.f191ab12.chunk.js.map": "/payslip/static/js/732.f191ab12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22e8333e.css",
+    "static/js/main.18d826b5.js"
+  ]
+}
